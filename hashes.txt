@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Unspoken Love
+
+This log tracks the cryptographic history and versioning for the song **Unspoken Love** (unspoken-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T02:56:49.013819 | `v1` | `3083931dcb26ee6b97a442d752c0c914dc93924eb1416a117bf11fac41c22f40` | `e43a7f243b81fd08b74b60fbad3c34de9ddc5d5a804f5638d61ec47916364163` | `2026-06-01_unspoken-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

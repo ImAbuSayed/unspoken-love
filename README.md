@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unspoken-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Unspoken Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unspoken-love/) |
+| **Get License** | [License this song: Unspoken Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unspoken-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3083931dcb26ee6b97a442d752c0c914dc93924eb1416a117bf11fac41c22f40` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
