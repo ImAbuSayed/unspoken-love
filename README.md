@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unspoken-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Unspoken Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unspoken-love/) |
+| **Get License** | [Obtain a Music License for Unspoken Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unspoken-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you pull me close
+> A quiet fire that nobody knows
+> I catch my breath when you look my way
+> You say it all when you have nothing to say
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
